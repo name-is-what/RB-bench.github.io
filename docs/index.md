@@ -13,7 +13,7 @@ Department of Computer Science and Engineering
 Beihang University (Beijing University of Aeronautics and Astronautics)  
 Beijing, 100083, P. R. China
 
-**Email:** kexu@buaa.edu.cn / kexu999@gmail.com
+**Email:** kexu AT buaa.edu.cn / kexu999 AT gmail.com
 
 ---
 

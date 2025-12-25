@@ -3,11 +3,11 @@ description: Research Homepage on Random Binary Benchmark.
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
-site_author: Carlos Pereira Atencio
+site_author: Yue Hou [hou_yue@buaa.edu.cn]
 repo_url: "https://github.com/RB-bench/"
-edit_on_github: true
+edit_on_github: false
 github_docs_folder: true
-sticky_navigation: true
+sticky_navigation: false
 prev_next_buttons_location: bottom
 search_enabled: true
 hljs_style: github-gist
