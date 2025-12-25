@@ -117,9 +117,7 @@ The documentation includes:
 
 ## 📬 Contact
 
-For questions, comments, or requests for additional benchmark instances, please contact:
-
-**kexu@buaa.edu.cn**
+For questions, comments, or requests for additional benchmark instances, please contact: **kexu AT buaa.edu.cn**
 
 ---
 
