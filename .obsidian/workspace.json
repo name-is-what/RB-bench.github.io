@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7e2af04f932e5553",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2829de3ee22fc04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89e529180abf8e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/pub.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "pub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da3cbf8827636143",
+    "type": "split",
+    "children": [
+      {
+        "id": "2103cea2a17be7bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9056bda0713c5dd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3297e827a0a3732a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6ccc3ad28d6110f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "64611dcd2ceeaad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ac5ecb8af9a55a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "715ff65ec602df41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/benchmarks/set-covering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "set-covering 的反向链接列表"
+            }
+          },
+          {
+            "id": "4636cc2e0389c769",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/benchmarks/set-covering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "set-covering 的出链列表"
+            }
+          },
+          {
+            "id": "a6e7dcb7b41ea6db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c53d641c9ff550cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3d7b55a078e8eef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/benchmarks/set-covering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "set-covering 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "89e529180abf8e4d",
+  "lastOpenFiles": [
+    "README.md",
+    "docs/pub.md",
+    "docs/index.md",
+    "docs/benchmarks/index.md",
+    "docs/benchmarks/set-covering.md",
+    "docs/benchmarks/hidden-opt-graph.md",
+    "docs/benchmarks/forced-sat-csp.md",
+    "docs/benchmarks/other/list-of-paper.md",
+    "docs/benchmarks/other",
+    "docs/assets/bench/frb35-17-cnf.tar.gz",
+    "docs/assets/bench/frb40-19-cnf.tar.gz",
+    "docs/assets/bench/frb45-21-cnf.tar.gz",
+    "docs/assets/bench/frb50-23-cnf.tar.gz",
+    "docs/assets/bench/frb53-24-cnf.tar.gz",
+    "docs/assets/bench/frb56-25-cnf.tar.gz",
+    "docs/assets/bench/frb59-26-cnf.tar.gz",
+    "docs/assets/bench/frb30-15-cnf.tar.gz",
+    "docs/benchmarks/weighted-max2sat.md",
+    "docs/assets/bench/frb35-17-csp.tar.gz"
+  ]
+}

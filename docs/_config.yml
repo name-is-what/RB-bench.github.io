@@ -1,0 +1,18 @@
+title: Prof. Ke Xu's Homepage
+description: Research Homepage on Random Binary CSP.
+remote_theme: carlosperate/jekyll-theme-rtd
+
+# Theme settings:
+site_author: Carlos Pereira Atencio
+# repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
+
+
+show_footer: false
+show_copyright: false
+show_revision: false
