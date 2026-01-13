@@ -75,7 +75,7 @@ Several benchmark collections developed by **Ke Xu**:
 
 ## Games Based on Model RB
 
-- A Game of Numbers Based on Model RB
+- [A Game of Numbers Based on Model RB](games/game-of-numbers.md)
 - An Online Java Game Based on Model RB
-- An Android Game Based on Model RB
+- [An Android Game Based on Model RB](assets/games/RBGame_G.apk.1)
 
