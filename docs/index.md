@@ -46,7 +46,7 @@ Earlier version: CoRR Report cs.CC/0302001, Feb. 2003.
 Ke Xu, Frederic Boussemart, Fred Hemery and Christophe Lecoutre.
 [Random Constraint Satisfaction: Easy Generation of Hard (Satisfiable) Instances.](assets/pdf/AIJ07.pdf)
 *Artificial Intelligence*, 171(2007):514-534.
-Earlier version appeared in Proc. of 19th IJCAI, pp.337-342, Scotland, 2005.
+[Earlier version](assets/pdf/IJCAI05.pdf) appeared in Proc. of 19th IJCAI, pp.337-342, Scotland, 2005.
 
 Ke Xu and Guangyan Zhou.
 [SAT Requires Exhaustive Search.](assets/pdf/SAT_requires_exhaustive_search.pdf)
