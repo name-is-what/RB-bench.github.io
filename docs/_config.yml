@@ -1,6 +1,8 @@
 title: Prof. Ke Xu's Homepage
 description: Research Homepage on Random Binary Benchmark.
-remote_theme: carlosperate/jekyll-theme-rtd
+
+#remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: just-the-docs/just-the-docs
 
 # Theme settings:
 site_author: Yue Hou [hou_yue@buaa.edu.cn]
