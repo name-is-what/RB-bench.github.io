@@ -4,7 +4,7 @@ description: Research Homepage on Random Binary Benchmark.
 #remote_theme: carlosperate/jekyll-theme-rtd
 #remote_theme: just-the-docs/just-the-docs
 
-theme: jekyll-text-theme
+remote_theme: kitian616/jekyll-TeXt-theme
 
 
 # Theme settings:
