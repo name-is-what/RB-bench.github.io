@@ -173,7 +173,7 @@ List of Papers That Use CSP Benchmarks of Model RB (Updated: Mar. 4, 2009)
 
 1. K. Xu and W. Li. [Exact Phase Transitions in Random Constraint Satisfaction Problems.](assets/pdf/JAIR00.pdf) *Journal of Artificial Intelligence Research*, 12(2000):93-103.  
 2. K. Xu and W. Li. Many Hard Examples in Exact Phase Transitions with Application to Generating Hard Satisfiable Instances. CoRR Report cs.CC/0302001, 2003. Revised version entitled "[Many Hard Examples in Exact Phase Transitions.](assets/pdf/TCS06.pdf)" appeared in *Theoretical Computer Science*, 355(2006):291-302.  
-3. K. Xu, F. Boussemart, F. Hemery and C. Lecoutre. [Random Constraint Satisfaction: Easy Generation of Hard (Satisfiable) Instances.](assets/pdf/AIJ07.pdf) *Artificial Intelligence*, 171(2007):514-534. Earlier version entitled "A Simple Model to Generate Hard Satisfiable Instances" appeared in Proc. of 19th IJCAI, pp.337-342, Scotland, 2005.
+3. K. Xu, F. Boussemart, F. Hemery and C. Lecoutre. [Random Constraint Satisfaction: Easy Generation of Hard (Satisfiable) Instances.](assets/pdf/AIJ07.pdf) *Artificial Intelligence*, 171(2007):514-534. [Earlier version](assets/pdf/IJCAI05.pdf) entitled "A Simple Model to Generate Hard Satisfiable Instances" appeared in Proc. of 19th IJCAI, pp.337-342, Scotland, 2005.
 
 
 
